@@ -32,7 +32,7 @@ public partial class MainWindow : Window
 
         isPlayerX = false;
         ComputerMove();
-    }
+    } //
 
     private void StartGameWithPlayer(object sender, RoutedEventArgs e)
     {
